@@ -38,7 +38,11 @@ The code is implemented in **Python 3.9.19** with the following dependencies:
 
 ## 🗒️ Notes
 
-We will upgrade the code to be more compatible with any base algorithm. Please feel free to reach out if you have any questions or suggestions for improvement.
+We will upgrade the code to be more compatible with any base algorithm. 
+
+Please feel free to reach out if you have any questions or suggestions for improvement to zhengli0060@gmail.com
+
+
 
 ## 📝 Citation
 If you use this code, please cite the following paper:
